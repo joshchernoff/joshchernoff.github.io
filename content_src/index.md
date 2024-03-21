@@ -2,7 +2,7 @@
   title: "Home Page",
   author: "",
   tags: ~w(),
-  description: "This is a home page",
+  description: "A personal blog / portflio for Josh Chernoff",
 }
 ---
 
