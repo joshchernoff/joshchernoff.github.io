@@ -1,6 +1,6 @@
 site_information:
-  title: Invariable
-  description: "A static site generator"
+  title: Greed Observer
+  description: "Bearing witness to a litany of existence greed"
   logo: /assets/logo.png
 
 navigation_items:
@@ -12,6 +12,3 @@ navigation_items:
         url: /blog.html
       - label: Tags
         url: /tags.html
-
-  - label: Some Random link
-    url: http://google.com
