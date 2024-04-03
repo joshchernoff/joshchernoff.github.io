@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(politics tech),
   description: "The control over who gets to share a message online is increasingly being censored by admin who are tech leaders with their own bias.",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 ![](/assets/images/6ac23985-dfb8-417f-97fd-5695c295d0c5.webp)

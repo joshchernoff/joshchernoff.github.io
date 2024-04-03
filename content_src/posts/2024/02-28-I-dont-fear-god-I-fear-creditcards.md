@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(society politics),
   description: "I no longer believe in your ability to improve this world.",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 

@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(politics),
   description: "HB4002 is proof my vote does not matter and that even if you get something to pass it will never be emplemented as you want and they will gut it for the same reasons.",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 

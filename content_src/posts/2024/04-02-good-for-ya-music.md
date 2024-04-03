@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(music),
   description: "Tracks I'm listening to currently",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 ![Yawn](/assets/images/mhXRj.jpeg)

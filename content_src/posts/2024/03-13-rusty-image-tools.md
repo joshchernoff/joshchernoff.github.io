@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(tech coding),
   description: "I wanted to learn rust so I used AI to help me a make a simple image tool",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 ![a rusty crab](https://rustyimagetools.github.io/rusty.webp)

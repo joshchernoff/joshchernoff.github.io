@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(politics),
   description: "I'm a programmer of 20+ year with skills that some have paid as much as 160k a year for. I'm now only offering my services to the least paying, I'm donating to and working for nonprofits only moving forward. I will no long offer my skills to the corporate elite or politically affiliated",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 

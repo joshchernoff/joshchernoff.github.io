@@ -4,7 +4,7 @@
   tags: ~w(music therapy),
   description:
 "We choose to feed our ego with what we consume when we listen to music. I've come to recognize my choice of music has more to do with coping with my own suffering than it has to do with enjoyment or entertainment.",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 
