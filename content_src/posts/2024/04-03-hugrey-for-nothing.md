@@ -3,7 +3,7 @@
   author: "Josh Chernoff",
   tags: ~w(suffering),
   description: "We could stop this all wars tomorrow if we wanted, but we are still hungery yet our bellys are full",
-  wrapper_class: "prose lg:prose-lg mx-auto p-10 md:px-20 md:px-0"
+  wrapper_class: "prose  mx-auto p-10 md:px-0"
 }
 ---
 
