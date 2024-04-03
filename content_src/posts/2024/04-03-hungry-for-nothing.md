@@ -12,9 +12,10 @@ I just want to sedate and numb these conscious thoughts.
 I do this to be be ok with myselfe, just standing by, doing nothing for no one other than myself.  
 I fill my ego with delusions of selflessness and compassion I never gave away but still feel and crave the dopamine from its effect on me.  
 
-My pride swells of bravery of a battle I never fought in. I think how much better would have been had I died beside you being what I belive to be my authentic self.
+My pride swells with bravery of a battle I never fought in.  
+I think how much better it would have been had I died beside you being what I belive to be my authentic self.  
 
-I wish I could die like you, but I never lived like you so I will never know.
+I wish I could die like you, but I've never lived like you so I will never know.
 
 ![Monday, April 1, 2024. (AP Photo/Abdel Kareem Hana)
 ](/assets/images/dims.apnews.webp)
