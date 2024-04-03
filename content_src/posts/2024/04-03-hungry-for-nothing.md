@@ -8,7 +8,7 @@
 ---
 
 I need to write something.  
-I just want to sedate and numb these this conscious thoughts.  
+I just want to sedate and numb these conscious thoughts.  
 I do this to be be ok with myselfe, just standing by, doing nothing for no one other than myself.  
 I fill my ego with delusions of selflessness and compassion I never gave away but still feel and crave the dopamine from its effect on me.  
 
