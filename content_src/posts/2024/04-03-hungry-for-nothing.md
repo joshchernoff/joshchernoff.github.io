@@ -17,6 +17,8 @@ I think how much better it would have been had I died beside you being what I be
 
 I wish I could die like you, but I've never lived like you so I will never know.
 
+Saifeddin Issam Ayad Abutaha, Laizawmi "Zomi" Frankcom, Damian Soból, Jacob Flinkinger, John Chapman, James "Jim" Henderson and James Kirby, I love you.
+
 ![Monday, April 1, 2024. (AP Photo/Abdel Kareem Hana)
 ](/assets/images/dims.apnews.webp)
 (Photo by: AP Photo/Abdel Kareem Hana)
