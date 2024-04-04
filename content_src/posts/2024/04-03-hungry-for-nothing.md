@@ -21,6 +21,8 @@ I wish I could die like you, but I've never lived like you so I will never know.
 ](/assets/images/dims.apnews.webp)
 (Photo by: AP Photo/Abdel Kareem Hana)
 
+If you can please donate at the World Central Kitchen website https://wck.org
+
 https://apnews.com/article/israel-hamas-war-news-04-02-2024-9bdf66771b62af37d85a2800f71c0e6c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7GY1Xg6X20?si=T7yAnsBXi0HoWFuu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
