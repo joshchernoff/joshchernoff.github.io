@@ -13,9 +13,10 @@ I do this to be be ok with myselfe, just standing by, doing nothing for no one o
 I fill my ego with delusions of selflessness and compassion I never gave away but still feel and crave the dopamine from its effect on me.  
 
 My pride swells with bravery of a battle I never fought in.  
-I think how much better it would have been had I died beside you being what I belive to be my authentic self.  
 
-I wish I could die like you, but I've never lived like you so I will never know.
+I think how much I could be beside you being what I belive to be my authentic self.  
+
+I wish I could die just as fearless as you, you are my hero.  
 
 Saifeddin Issam Ayad Abutaha, Laizawmi "Zomi" Frankcom, Damian Soból, Jacob Flinkinger, John Chapman, James "Jim" Henderson and James Kirby, I love you.
 
